@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs_challenge", "cs_challenge\cs_challenge.csproj", "{7325F7B4-6BB5-4382-AC68-ACB5AEC6CC01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs_challenge.Tests", "cs_challenge.Tests\cs_challenge.Tests.csproj", "{72248EDC-8607-4716-99F2-B7A3F27B6B34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7325F7B4-6BB5-4382-AC68-ACB5AEC6CC01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7325F7B4-6BB5-4382-AC68-ACB5AEC6CC01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7325F7B4-6BB5-4382-AC68-ACB5AEC6CC01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7325F7B4-6BB5-4382-AC68-ACB5AEC6CC01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72248EDC-8607-4716-99F2-B7A3F27B6B34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72248EDC-8607-4716-99F2-B7A3F27B6B34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72248EDC-8607-4716-99F2-B7A3F27B6B34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72248EDC-8607-4716-99F2-B7A3F27B6B34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPath = packages\Unity.2.1.505.2\lib\NET35
+	EndGlobalSection
+EndGlobal
